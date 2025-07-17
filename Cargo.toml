@@ -2,7 +2,7 @@
 name = "tss-ecdsa"
 version = "0.0.0"
 description = "Multi-party ECDSA signing"
-authors = ["Kevin Lewi <klewi@fb.com>", "Don Beaver <dbeaver@fb.com>", Dongwook Kim <dongwook1214@gmail.com>, Hyuktae Kwon <kwon0111@hanyang.ac.kr>]
+authors = ["Kevin Lewi <klewi@fb.com>", "Don Beaver <dbeaver@fb.com>", "Dongwook Kim <dongwook1214@gmail.com>", "Hyuktae Kwon <kwon0111@hanyang.ac.kr>"]
 license = "MIT"
 edition = "2021"
 keywords = ["cryptography", "crypto", "signatures", "threshold", "ECDSA"]
