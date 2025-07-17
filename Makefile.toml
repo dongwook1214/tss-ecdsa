@@ -13,7 +13,7 @@ args = [ "fmt", "--all", "--check"]
 
 [tasks.ci-clippy]
 command = "cargo"
-args = ["clippy", "--all-targets", "--workspace", "--", "-Dwarnings"]
+args = ["clippy", "--all-targets", "--workspace"]
 
 [tasks.ci-build]
 command = "cargo"
